@@ -11,7 +11,8 @@ This directory covers some of the projects developed during the Computer Vision 
 - Color Grading
 - Image Moment and Centroid
 
-![image](https://github.com/VariableBee/Seaborn-Data-Visualization/assets/77739311/1cd63e0d-50bc-4997-ad51-e82708537b7c)
+![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/Church_com_detec%C3%A7%C3%A3o_de_linhas.png)
+![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/Church_com_detec%C3%A7%C3%A3o_de_linhas.png)
 
 ## Bibliographic Reference
 CORKE, Peter. Robotics, Vision and Control - Fundamental Algorithms in Python. Third Edition. Springer, 2023

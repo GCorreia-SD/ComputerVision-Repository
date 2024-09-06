@@ -11,7 +11,8 @@ This directory covers some of the projects developed during the Computer Vision 
 - Color Grading
 - Image Moment and Centroid
 
-![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/Church_com_detec%C3%A7%C3%A3o_de_linhas.png)
+## Image Treatment Example
+![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/church.jpg)
 ![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/Church_com_detec%C3%A7%C3%A3o_de_linhas.png)
 
 ## Bibliographic Reference

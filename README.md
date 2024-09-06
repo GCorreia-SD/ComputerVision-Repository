@@ -11,9 +11,11 @@ This directory covers some of the projects developed during the Computer Vision 
 - Color Grading
 - Image Moment and Centroid
 
-## Image Treatment Example
+## Hough Transform Example:
 ![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/church.jpg)
 ![image](https://github.com/GCorreia-SD/ComputerVision-Repository/blob/images/Church_com_detec%C3%A7%C3%A3o_de_linhas.png)
+
+You can see these and other examples in the files available in this repository, in the Main, Images and Videos folders. 
 
 ## Bibliographic Reference
 CORKE, Peter. Robotics, Vision and Control - Fundamental Algorithms in Python. Third Edition. Springer, 2023
